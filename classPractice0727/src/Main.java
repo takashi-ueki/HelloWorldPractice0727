@@ -3,7 +3,7 @@ public class Main {
         Book title = new Book("吾輩は猫である");
         title.titleCall();
 
-        title.setTitle("誰が為に鐘はなる");
+        Book title = new Book("誰が為に鐘はなる");
         title.titleCall();
     }
 }
